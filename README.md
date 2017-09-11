@@ -1,3 +1,3 @@
 ## SimAlba Github page branch
 
-Hi?
+page 전용 branch입니다. 여긴 별 볼일 없으실거에요...
