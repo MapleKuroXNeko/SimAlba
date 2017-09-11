@@ -1,4 +1,4 @@
-## ![로고](https://maplekuroxneko.github.io/SimAlba/images/logo.png) 심알바 도우미
+## ![로고](https://maplekuroxneko.github.io/SimAlba/images/logo.png) **심알바 도우미**
 
 ![프로그램 메인](https://maplekuroxneko.github.io/SimAlba/images/001.png)<br>
 프로그램 메인
